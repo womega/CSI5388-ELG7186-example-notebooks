@@ -2,4 +2,6 @@
 
 This repository contains examples of how to use ML methods in practice.
 
-1. **Over/Under sampling in practice**: This notebook is intended to demonstrate to use oversampling/undersampling strategies in practice with The Decision Tree Classifier used as example algorithm.
+1. **Over/Under sampling in practice**: This notebook is intended to demonstrate how to use oversampling/undersampling strategies in practice with The Decision Tree Classifier used as example algorithm.
+
+2. **Online learning in practice**: In this notebook, two online learning libraries implemented in python, [riverml](https://riverml.xyz/dev/) and [scikit-multiflow](https://scikit-multiflow.github.io), have been used for demonstration.
